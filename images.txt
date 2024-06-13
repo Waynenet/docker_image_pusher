@@ -1,6 +1,15 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+hslr/sun-panel:latest
+metacubex/mihomo:Alpha
+haishanh/yacd:latest
+jxxghp/moviepilot:latest
+linuxserver/qbittorrent:latest
+allanpk716/chinesesubfinder:latest
+deluan/navidrome:latest
+linuxserver/calibre-web:latest
+lovechen/embyserver:4.8.0.21
+gdy666/lucky:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
